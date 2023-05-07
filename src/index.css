@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Sigmar', cursive;
+}
+
+.icon {
+    font-size: 70px;
+}
+
+.texto-contacto{
+    margin-bottom: 40px;
+}
